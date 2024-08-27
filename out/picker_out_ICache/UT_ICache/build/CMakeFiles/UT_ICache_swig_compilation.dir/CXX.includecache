@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/code/RISC-V/XS-MLVP-XiangShan-ICache/out/picker_out_ICache/UT_ICache/dut.i
+dut_base.hpp
+/mnt/d/code/RISC-V/XS-MLVP-XiangShan-ICache/out/picker_out_ICache/UT_ICache/dut_base.hpp
+dut_base.hpp
+/mnt/d/code/RISC-V/XS-MLVP-XiangShan-ICache/out/picker_out_ICache/UT_ICache/dut_base.hpp
+
+/mnt/d/code/RISC-V/XS-MLVP-XiangShan-ICache/out/picker_out_ICache/UT_ICache/dut_base.hpp
+bits/stdc++.h
+-
+svdpi.h
+-
+vc_hdrs.h
+/mnt/d/code/RISC-V/XS-MLVP-XiangShan-ICache/out/picker_out_ICache/UT_ICache/vc_hdrs.h
+
+/usr/local/share/verilator/include/vltstd/svdpi.h
+stdint.h
+-
+stdint.h
+-
+inttypes.h
+-
+sys/types.h
+-
+

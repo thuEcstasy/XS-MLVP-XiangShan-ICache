@@ -1,0 +1,4 @@
+/mnt/d/code/RISC-V/XS-MLVP-XiangShan-ICache/out/picker_out_ICache/UT_ICache/build/CMakeFiles/UT_ICache.dir
+/mnt/d/code/RISC-V/XS-MLVP-XiangShan-ICache/out/picker_out_ICache/UT_ICache/build/CMakeFiles/UT_ICache_swig_compilation.dir
+/mnt/d/code/RISC-V/XS-MLVP-XiangShan-ICache/out/picker_out_ICache/UT_ICache/build/CMakeFiles/edit_cache.dir
+/mnt/d/code/RISC-V/XS-MLVP-XiangShan-ICache/out/picker_out_ICache/UT_ICache/build/CMakeFiles/rebuild_cache.dir
